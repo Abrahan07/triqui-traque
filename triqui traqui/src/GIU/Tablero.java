@@ -26,7 +26,7 @@ public class Tablero {
     private String colorj1;
     private String colorj2;
     private String modo_juego;
-    private boolean ganador= false;
+
     
 
    public Tablero(Juego juego){
